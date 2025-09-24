@@ -1,0 +1,5 @@
+opencv-python>=4.7
+opencv-contrib-python>=4.7
+numpy>=1.23
+imutils>=0.5.4
+matplotlib>=3.5
