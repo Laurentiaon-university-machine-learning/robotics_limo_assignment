@@ -1,4 +1,4 @@
-# 机器人学与计算机视觉课程实验 | Robotics and Computer Vision Course Lab
+# 机器人学与计算机视觉课程实验 | Autonomous Mobile Robotics Course Lab
 
 **中文** | [English](#english-version)
 
